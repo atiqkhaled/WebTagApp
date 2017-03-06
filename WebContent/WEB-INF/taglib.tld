@@ -1,0 +1,14 @@
+<taglib>
+  <tlib-version>1.0</tlib-version>
+  <jsp-version>2.0</jsp-version>
+  <short-name>CustomTag TLD</short-name>
+  <tag>
+    <name>loop</name>
+    <tag-class>com.main.SuperManTag</tag-class>
+    <body-content>scriptless</body-content>
+    <attribute>
+      <name>count</name>
+      <required>true</required>
+    </attribute>
+  </tag>
+</taglib>
