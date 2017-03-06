@@ -6,12 +6,12 @@ Key project resources given bellow :
 - taglib.tld
 - test.jsp
 
-*SuperManOptionalTag* java class is a tag handler in which loop fetaures is implemented.
+** _SuperManOptionalTag_ ** java class is a tag handler in which loop fetaures is implemented.
 
-*taglib.tld* is a tag library descriptors file. Tag name, qualified class name , attributes and other
+** _taglib.tld_ ** is a tag library descriptors file. Tag name, qualified class name , attributes and other
 element related to tag handler has been defined in taglib.tld file.
 
-*test.jsp* is the sample jsp file where superman loop tag been used.
+** _test.jsp_ ** is the sample jsp file where superman loop tag been used.
 You can find `superman:loop` tag with count attribute which indicates how many times iterate over specified html content.
 
 Following code sinnipet specifies superman loop tag :
