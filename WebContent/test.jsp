@@ -8,7 +8,7 @@
   </head>
   <body>
    <!-- In superman loop tag count attribute value specified how many times hello world generated on html -->
-    <superman:loop count="3">
+    <superman:loop count = "3">
       Hello world!
     </superman:loop>
   </body>
