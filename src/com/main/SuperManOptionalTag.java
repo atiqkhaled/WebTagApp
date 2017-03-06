@@ -1,10 +1,15 @@
 package com.main;
+
 import java.io.IOException;
 import java.io.StringWriter;
 import javax.servlet.jsp.JspException;
 import javax.servlet.jsp.JspWriter;
 import javax.servlet.jsp.tagext.SimpleTagSupport;
 
+/**
+*
+* @author atiqkhaled
+*/
 public class SuperManOptionalTag extends SimpleTagSupport{
 	private String count;
 	StringWriter sw = new StringWriter();
