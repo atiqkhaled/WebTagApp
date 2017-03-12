@@ -1,5 +1,6 @@
 # WebTagApp
 **Project URL :** *http://localhost:8080/WebFilterApp*
+
 This tag app is about loop features over html content.
 Key project resources given bellow :
 
