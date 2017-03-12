@@ -1,4 +1,5 @@
 # WebTagApp
+**Project URL :** *http://localhost:8080/WebFilterApp*
 This tag app is about loop features over html content.
 Key project resources given bellow :
 
@@ -23,4 +24,7 @@ Following code sinnipet specifies superman loop tag :
 ```
 
 **Note :** Developers can implement superman loop tag on their web project using `supertag-1.0.jar` file which is located in  `../WEB-INF/lib/supertag-1.0.jar`. All you have to do just reference this jar file from web.xml.
+
+###Licence
+This project is of course public and author is **atiqkhaled**.
 
