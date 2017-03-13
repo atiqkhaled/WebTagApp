@@ -1,7 +1,8 @@
 # WebTagApp
 **Project URL :** *http://localhost:8080/WebFilterApp*
 
-This tag app is about loop features over html content.
+This tag app is about loop features over html content using JSP specification. JSP API has set of classes and interfaces e.g `SimpleTagSupport` which implemented some of the interfaces eg. `SimpleTag` defince in API to develope custom tag handler.
+
 Key project resources given bellow :
 
 - SuperManOptionalTag.java
