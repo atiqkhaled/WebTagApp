@@ -27,6 +27,6 @@ Following code sinnipet specifies superman loop tag :
 
 **Note :** Developers can implement superman loop tag on their web project using `supertag-1.0.jar` file which is located in  `../WEB-INF/lib/supertag-1.0.jar`. All you have to do just reference this jar file from web.xml.
 
-### Licence
+### License
 This project is of course public and author is **atiqkhaled**.
 
